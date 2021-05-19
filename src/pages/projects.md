@@ -10,7 +10,7 @@ There are two types of projects.
 
 Projects that are not created by a user that is logged in are considered temporary. These projects
 
-- Are destroyed **7days** after they are created
+- Are destroyed **7 days** after they are created
 - Are readable and writable by anyone
 - Can be **claimed** by any user to convert it into a private project
 
