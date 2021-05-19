@@ -14,3 +14,5 @@ builds and deployments.
 | `RAILWAY_GIT_REPO_NAME`      | The name of the repository that triggered the deployment. Example `myproject` |
 | `RAILWAY_GIT_REPO_OWNER`     | The name of the repository that triggered the deployment. Example `mycompany` |
 | `RAILWAY_GIT_COMMIT_MESSAGE` | The message of the commit that triggered the deployment. Example `Fixed a few bugs` |
+
+If you change an environment variable while your project is linked to GitHub, your project will redeploy itself.
